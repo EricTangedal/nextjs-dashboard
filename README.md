@@ -1,5 +1,7 @@
-## Next.js App Router Course - Starter
+## Next.js App - Financial Dashboard
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+[Link to Website](https://nextjs-dashboard-tau-indol.vercel.app/)
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Test User Login Credentials:
+  <br/>Username: user@nextmail.com
+  <br/>Password: 123456
