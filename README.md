@@ -1,4 +1,4 @@
-## Next.js App Router Course - Financial Dashboard
+## Next.js App - Financial Dashboard
 
 [Link to Website](https://nextjs-dashboard-tau-indol.vercel.app/)
 
