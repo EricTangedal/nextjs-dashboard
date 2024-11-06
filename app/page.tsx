@@ -16,11 +16,11 @@ export default function Page() {
           className="relative w-0 h-0 border-l-[15px] border-r-[15px] border-b-[26px] border-l-transparent border-r-transparent border-b-black"
         />
           <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>
-            <strong>Welcome to Acme.</strong> This is the example for the{' '}
+            <strong>Welcome to Acme.</strong> This is a web app project by Eric Tangedal made using {' '}
             <a href="https://nextjs.org/learn/" className="text-blue-500">
-              Next.js Learn Course
+              Next.js
             </a>
-            , brought to you by Vercel.
+            , and Vercel.
           </p>
           <Link
             href="/login"
